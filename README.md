@@ -1,1 +1,1 @@
-# -alu-low_level_programming
+Learning programming in C
